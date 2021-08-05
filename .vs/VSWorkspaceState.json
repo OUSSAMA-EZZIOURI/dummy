@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\dummy",
-    "\\polls"
+    "\\polls",
+    "\\polls\\migrations"
   ],
-  "SelectedNode": "\\dummy\\urls.py",
+  "SelectedNode": "\\polls\\models.py",
   "PreviewInSolutionExplorer": false
 }
